@@ -8,7 +8,8 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/guitar.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "price": 119.99,
       "instructor": "Emily Smith",
       "isFeatured": false,
-      "image": "/courses/piano.jpg"
+      "image": "/courses/piano.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1513883049090-d0b7439799bf?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "price": 149.99,
       "instructor": "Mike Johnson",
       "isFeatured": true,
-      "image": "/courses/advanced-guitar.jpg"
+      "image": "/courses/advanced-guitar.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "price": 89.99,
       "instructor": "Sarah Lee",
       "isFeatured": false,
-      "image": "/courses/music-theory.jpg"
+      "image": "/courses/music-theory.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "price": 109.99,
       "instructor": "David Brown",
       "isFeatured": true,
-      "image": "/courses/drums.jpg"
+      "image": "/courses/drums.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 6,
@@ -58,17 +63,19 @@
       "price": 129.99,
       "instructor": "Anna White",
       "isFeatured": false,
-      "image": "/courses/violin.jpg"
+      "image": "/courses/violin.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 7,
       "title": "Singing and Vocal Training",
       "slug": "singing-vocal-training",
       "description": "Improve your voice with breathing exercises, pitch control, and vocal practice.",
-     "price": 139.99,
+      "price": 139.99,
       "instructor": "Chris Martin",
       "isFeatured": true,
-      "image": "/courses/singing.jpg"
+      "image": "/courses/singing.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "price": 199.99,
       "instructor": "Sophia Green",
       "isFeatured": false,
-      "image": "/courses/music-production.jpg"
+      "image": "/courses/music-production.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1200&q=80"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "price": 179.99,
       "instructor": "James Wilson",
       "isFeatured": true,
-      "image": "/courses/dj.jpg"
+      "image": "/courses/dj.jpg",
+      "ogImage": "https://images.unsplash.com/photo-1541126274323-dbac58d14741?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
